@@ -1,0 +1,22 @@
+{
+  "name": "bower-example",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "angularjs#^1.5.5",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.2.18",
+    "angular-material": "^1.0.8",
+    "defiant": "defiantjs#^1.4.0"
+  }
+}
